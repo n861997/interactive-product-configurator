@@ -90,12 +90,13 @@ The tool was tested for:
 
 - Edge cases such as incomplete selections
 
-## Access Notice
+## Source Code Access
 
-This repository is private due to business-specific implementation details.
+The full implementation is maintained in a private repository due to
+hardware-specific and business considerations.
 
-**Recruiters and hiring managers:**
-Access can be granted upon request for evaluation purposes.
+Recruiters and hiring managers are welcome to request access for
+evaluation purposes.
 
 ## Contact
 
